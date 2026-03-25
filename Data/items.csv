@@ -1,0 +1,8 @@
+-1,0,HP Potion,Heals the users Health Points by a certain amount,0,20,100.00
+-1,2,MP potion,A potion that regenerates the users Mana Points by a certain amount,0,20,100.00
+5,1,Undead Seal,An ancient long forgotten medallion glows faintly when near an undead or held up south towards the massive black glooming cloud over the land in the distance,0,0,0.00
+-1,8,Ring of Strength,An ornate gold ring adorned with rubys it seems to have sacred seals of strength etched into the inside looks expensive,20,0,500.00
+-1,8,Chain of Holy Protection,An ornate silver chain that glimmers brightly in the light upon closer inspection there is sacred seals of divinity and seals of protection etched into some of the links,10,20,700.00
+8,5,Lightbringer,A blazing sword made of some unfamiliar metal that appears to be gold but feels much lighter in your hands and when taped against a rock the sound that resonates from it indicates it is considerably stronger metal than anything youve ever seen as you hold it it begins to glow and emit a faint golden light from the blade,100,20,10000.00
+7,3,Sacred Seal,A small medallion on a chain upon closer inspection you notice poorly etched seals of casting and divinty ,15,15,200.00
+-1,7,Game meat,A hunk of game meat from a deer,5,5,50.00
