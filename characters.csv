@@ -1,0 +1,9 @@
+4,1,Wanderer,A Strange traveler to this mysterious land,human,hero,76,3,5,13,2,2,1
+5,3,Villager,A peaceful townsfolk toiling about their daily life,human,normal,90,20,11,7,8,0,0
+5,3,Shopkeeper,A merchant villager inviting you to paruse their wares,human,normal,79,16,11,8,5,0,0
+4,6,Skeleton,A shambling corpse of a fallen warrior only scraps of armor dangle from its bones,undead,warrior,92,15,13,1,5,0,1
+3,4,Goblin,Small green dirty creature with with bloodshot crazed eyes and snaggled teeth made up of what appears to be bone fragments and stones,goblin,warrior,4,17,7,6,10,1,1
+4,9,Undead Lord,A massive 8 foot tall monstrosity of a corpse it appears to be a smashed together creation of many corpses in one,undead,boss,82,8,19,15,19,0,1
+4,4,Squirrel,A tiny rodent scuttering around the ground looking for acorns and seeds to eat,squirrel,animal,79,2,19,8,20,1,0
+2,4,Deer,A skiddish game animal,deer,animal,31,11,16,4,16,1,0
+1,4,Traveling Merchant,An experienced traveler with a small horse drawn carriage full of wares,human,merchant,87,19,13,12,14,1,0
